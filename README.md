@@ -15,6 +15,7 @@
 
 - ## **Resource For C Programming**
   - [C Tutorial](http://www.tutorialspoint.com/cprogramming/index.htm)
+  - [C Exercises And Solutions Programming](http://www.worldbestlearningcenter.com/index_files/c_tutorial_lesson.htm)
 
 - ## **The Guide For A Programmer**
   - [What are some of the best ways to learn programming?](https://www.quora.com/What-are-some-of-the-best-ways-to-learn-programming)
@@ -36,6 +37,9 @@
 - ## **The Project Tutorials**
   - [计算机科学中有哪些典型的练手项目？](https://www.zhihu.com/question/29779842)
   - [一千行以下有哪些值得学习的小型开源项目？](https://www.zhihu.com/question/26469623)
+
+- ## **A Beginer Guide To Markdown**
+  - [Markdown 简明教程](http://www.jianshu.com/p/7bd23251da0a)
 
 - ## **Web Sites**
   - [Quora](https://www.quora.com/)
