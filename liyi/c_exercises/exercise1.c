@@ -1,8 +1,8 @@
 #include<stdio.h>
 #include<stdlib.h>
-/***@LIYI
- @This is a C grammer.
-  @14/4/16***/ 
+/***@Author£ºLIYI
+  @Brief£ºThis is a C grammer.
+  @Created£º 14/4/16***/ 
 int main(int argc,char*argv[])
 {
 	printf("Welcome£¡\n");
