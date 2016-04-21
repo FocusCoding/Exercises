@@ -1,9 +1,9 @@
 #include <stdio.h> 
 /************************************************
 * @Author: weiqiujuan
-* @Brief:  Write a C program to prompt the user to input 3 
-integer values and print these values in forward and reversed
- order, as shown below.
+* @Brief:  Write a C program to prompt the user to input 3 integer
+           values and print these values in forward and reversedorder, 
+		   as shown below.
 * @CreatedTime: 18/4/16.
 *************************************************/	
 void main(void) 
